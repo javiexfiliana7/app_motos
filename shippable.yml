@@ -7,9 +7,7 @@ language: node_js
 # version numbers, testing against two versions of node
 node_js:
  - 0.12.7
- - 0.11
-#for public modules use
-https://github.com/javiexfiliana7/app_motos.git
+ - 0.1
 
 # npm install runs by default but shown here for illustrative purposes
 before_install:
