@@ -9,7 +9,7 @@ node_js:
  - 0.12.7
  - 0.11
 #for public modules use
-https://github.com/javiexfiliana7/app_motos.git
+git://github.com/sn1k/web_vehiculos.git
 
 # npm install runs by default but shown here for illustrative purposes
 before_install:
