@@ -18,5 +18,3 @@ before_install:
  # Running npm test to run your test cases
 script:
  - mocha
-after_script
- - ./node_modules/.bin/mocha -R xunit ./test > shippable/testresults/result.xml
