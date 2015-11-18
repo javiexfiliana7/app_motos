@@ -1,2 +1,2 @@
-# web_vehiculos
-Aplicación para mostrar la opinión sobre diferentes vehículos.
+# app_motos
+Aplicación para mostrar la opinión sobre diferentes motos.

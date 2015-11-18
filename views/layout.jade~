@@ -1,13 +1,13 @@
 doctype 5
 html
   head
-    title Mega Facts
+    title Mejor vehículo 2015/16
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
     #container
       #header
-        h1 Mega Facts
+        h1 Mejor moto de este año
       #content
         block content
       #footer
-        a(href="http://blog.koalite.com") Koalite
+        a(href="https://github.com/javiexfiliana7/app_motos") Este proyecto en GitHub.

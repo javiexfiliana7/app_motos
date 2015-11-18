@@ -3,34 +3,27 @@ var _ = require('underscore');
 // TODO: This shoul be read from a database
 var heroes = [
   { 
-    name: 'Ford Focus RS', 
+    name: 'KTM', 
     facts: [
-      '150 cv',
-      'Disponibe en cualquier color',
-      '18.000€', 
+      '50 cv',
+      'Disponibe en blanca y naranja',
+      '8.000€', 
       ] 
   },
   {
-    name: 'Seat Ibiza',
+    name: 'Gas Gas',
     facts: [
-      '120cv',
+      '55cv',
       'Disponibe en cualquier color', 
-      '16.000€',
+      '8.000€',
       ]
   },
+  
   {
-    name: 'Fiat multiplá',
+    name: 'Honda CRF',
     facts: [
-      '300cv', 
-      'Solo en naranja butano',
-  	  '50.000€',
-  	  ]
-  },
-    {
-    name: 'Derbi variant',
-    facts: [
-      '3003cv', 
-      'Blanca',
+      '30cv', 
+      'Roja',
   	  '3.000€',
   	  ]
   }

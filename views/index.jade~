@@ -6,7 +6,7 @@ block content
   script(src="/javascripts/view.index.js")
 
   #left-column.column
-    h2 Elige tu héroe
+    h2 Elige tu vehículo
     ul#heroes
       each hero in heroes
         li(class='hero-name')
@@ -15,6 +15,6 @@ block content
   #right-column.column
     h2 Facts
     ul#facts
-    label(for="new-fact") Añadir nuevo fact:
+    label(for="new-fact") Add coment:
     textarea#new-fact
-    a(id='add-new-fact', href='#') Añadir
+    a(id='add-new-fact', href='#') Add

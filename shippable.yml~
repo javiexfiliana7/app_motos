@@ -10,12 +10,12 @@ language: node_js
 node_js:
  - 0.12.7
 #for public modules use
-https://github.com/javiexfiliana7/app_motos
+git://github.com/sn1k/web_vehiculos.git
 
 notificacions:
 	email:
 		recipients:
-				- javiexfiliana@gmail.com
+				- albertoromeroca@gmail.com
 		on_success: change
 		on_failure: always
 

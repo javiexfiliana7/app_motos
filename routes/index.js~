@@ -3,24 +3,36 @@ var _ = require('underscore');
 // TODO: This shoul be read from a database
 var heroes = [
   { 
-    name: 'Infraestructura Virtual', 
+    name: 'Ford Focus RS', 
     facts: [
-      'Todos los apuntes estan en github',
-      'El profesor de teoría es JJ', 
-      'El profesor de prácticas es Fnaveros'] 
+      '150 cv',
+      'Disponibe en cualquier color',
+      '18.000€', 
+      ] 
   },
   {
-    name: 'Desarrollo de Aplicaciones para Internet',
+    name: 'Seat Ibiza',
     facts: [
-      'Todos los apuntes estan en SWAD',
-      'El profesor de teoría es Sergio', 
-      'El profesor de prácticas es Guirao']
+      '120cv',
+      'Disponibe en cualquier color', 
+      '16.000€',
+      ]
   },
   {
-    name: 'Seguridad y Protección de Sistemas Informáticos',
+    name: 'Fiat multiplá',
     facts: [
-      'Todos los apuntes estan en SWAD', 
-      'El profesor de la asignatura es Sevilla']
+      '300cv', 
+      'Solo en naranja butano',
+  	  '50.000€',
+  	  ]
+  },
+    {
+    name: 'Derbi variant',
+    facts: [
+      '3003cv', 
+      'Blanca',
+  	  '3.000€',
+  	  ]
   }
 ];
 
