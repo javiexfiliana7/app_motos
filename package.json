@@ -1,0 +1,30 @@
+{
+  "name": "mejor_moto_enduro",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1"
+  },
+  "description": "web para decidir la mejor moto de enduro y poder comentar",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiexfiliana7/app_motos.git"
+  },
+  "keywords": [
+    "jade",
+    "express",
+    "stylus"
+  ],
+  "author": "Javier Ruiz César",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiexfiliana7/app_motos/issues"
+  },
+  "homepage": "https://github.com/javiexfiliana7/app_motos#readme"
+}
